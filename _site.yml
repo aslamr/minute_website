@@ -17,6 +17,8 @@ navbar:
           href: info.html
     - text: "Tableau Session"
       href: tableau.html
+    - text: "My Webpage"
+      href: mypage.html
     - text: "Publish to Github"      
       menu: 
         - text: "publish"
